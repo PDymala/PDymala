@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PDymala
 - 👀 I’m interested in digital image processing, cryptography, programming in general
-- 🌱 I’m currently learning web services, Android and web crawling
-- 💞️ I’m looking to collaborate on a project that does not need to be made ASAP. Dont have much free time :)
+- 🌱 I’m currently working on multi-platform projects incl. web services, sql, Android and desktop
 - 📫 How to reach me: email
 
 <!---
