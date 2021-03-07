@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PDymala
 - 👀 I’m interested in digital image processing, cryptography, programming in general
-- 🌱 I’m currently working on multi-platform projects incl. web services, sql, Android and desktop
+- 🌱 I’m currently fighting with multi-platform project incl. web services, sql, Android and desktop
 - 📫 How to reach me: email
 
 <!---
